@@ -2,7 +2,7 @@
 
 A simple and fun tool to stylize your images using **ordered dithering** and custom color palettes.
 
-Try it out live 👉 [Image Stylizer](https://z3.pythonanywhere.com/)
+Try it out live 👉 [Z3's Image Stylizer](https://z3.pythonanywhere.com/)
 
 ![Demo Screenshot](https://github.com/user-attachments/assets/6de6f14a-5d66-472b-b6b0-d0e30d10acb1)
 
@@ -72,7 +72,7 @@ Upload an image, generate a palette, tweak a few sliders—**and watch your imag
 
 ## 📜 License
 
-This project is licensed under the [GNU GENERAL PUBLIC LICENSE V3](LICENSE).
+This project is licensed under the [GPL-3.0 License](LICENSE).
 
 ---
 
