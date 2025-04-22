@@ -68,11 +68,12 @@ Upload an image, generate a palette, tweak a few sliders—**and watch your imag
 > - Bloom: Radius `10%`, Threshold `65%`, Amount `30%`  
 > - Resize: `30%` (Interpolation: *Area*)
 
---- 
+---
 
 ## 📜 License
 
-This project is licensed under the [GPL-3.0 License](LICENSE).
+**No license has been specified for this project yet.**  
+Feel free to explore and use it for personal or educational purposes, but please reach out before using it in commercial projects or redistributing.
 
 ---
 
